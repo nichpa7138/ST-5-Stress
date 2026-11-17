@@ -1,0 +1,6 @@
+{
+  "name": "ST-5 Stress & Happiness Self-Assessment",
+  "description": "ระบบประเมินตนเองเพื่อวัดระดับความสุขและความเครียด (ST-5) สำหรับนักศึกษา พร้อมบันทึกผลลง Google Sheets และแดชบอร์ดสรุปสถิติภาพรวม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
